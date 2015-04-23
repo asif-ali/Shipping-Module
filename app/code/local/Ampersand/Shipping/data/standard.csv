@@ -1,0 +1,98 @@
+Website Id,Destination,Service,Cost,Description
+1,GB,DPD - Next Day,4.5,Next Day Guaranteed
+1,GB,DPD - Next Day,0,Free Next Day (> £140)
+1,GB,DPD - Saturday,6.95,"Saturday Delivery - only available between Thurs 16:01 - Fri 16:00"
+1,GB,DPD - Standard,2.95,Standard - 2 to 3 Days
+3,AT,DPD - Express,12.95,Express Delivery - 3 Days
+3,BE,DPD - Express,10.5,Express Delivery - 2 Days
+3,BG,DPD - Express,21.5,Express Delivery - 4 Days
+3,HR,FEDEX,29.5,Priority Delivery - 3 Days
+3,CY,FEDEX,45.95,Priority Delivery - 3 Days
+3,CZ,DPD - Express,11.95,Priority Delivery - 3 Days
+3,DK,DPD - Express,7.95,Priority Delivery - 3 Days
+3,EE,DPD - Express,19.95,Express Delivery - 4 Days
+3,FI,DPD - Express,21.95,Express Delivery - 4 Days
+3,FR,DPD - Express,8.5,Express Delivery - 2 Days
+3,DE,DPD - Express,7.95,Express Delivery - 2 Days
+3,GR,FEDEX,23.5,Priority Delivery - 3 Days
+3,HU,DPD - Express,12.95,Express Delivery - 4 Days
+3,IE,DPD - Express,10.5,Express Delivery - 2 Days
+3,IT,DPD - Express,11.95,Express Delivery - 3 Days
+3,LV,DPD - Express,19.95,Express Delivery - 4 Days
+3,LT,DPD - Express,15.95,Express Delivery - 4 Days
+3,MT,FEDEX,45.95,Priority Delivery - 3 Days
+3,NL,DPD - Express,7.95,Express Delivery - 2 Days
+3,PL,DPD - Express,12.95,Express Delivery - 4 Days
+3,PT,DPD - Express,18.95,Express Delivery - 4 Days
+3,RO,DPD - Express,22.5,Express Delivery - 4 Days
+3,SK,DPD - Express,11.95,Express Delivery - 3 Days
+3,SI,DPD - Express,11.95,Express Delivery - 4 Days
+3,ES,DPD - Express,10.5,Express Delivery - 3 Days
+3,SE,DPD - Express,9.5,Express Delivery - 3 Days
+4,GD,Fedex,36.95,International Priority - 5 Day
+4,GG,DPD - Next Day,4.5,Next Day Guaranteed
+4,GG,DPD - Next Day,0,Free Next Day (> £140)
+4,GG,DPD - Saturday,6.95,"Saturday Delivery - only available between Thurs 16:01 - Fri 16:00"
+4,GG,DPD - Standard,2.95,Standard - 2 to 3 Days
+4,IM,DPD - Next Day,4.5,Next Day Guaranteed
+4,IM,DPD - Next Day,0,Free Next Day (> £140)
+4,IM,DPD - Saturday,6.95,"Saturday Delivery - only available between Thurs 16:01 - Fri 16:00"
+4,IM,DPD - Standard,2.95,Standard - 2 to 3 Days
+4,JE,DPD - Next Day,4.5,Next Day Guaranteed
+4,JE,DPD - Next Day,0,Free Next Day (> £140)
+4,JE,DPD - Saturday,6.95,"Saturday Delivery - only available between Thurs 16:01 - Fri 16:00"
+4,JE,DPD - Standard,2.95,Standard - 2 to 3 Days
+4,IL,Fedex,24.95,Priority Delivery - 3 Days
+4,MK,Fedex,21.95,Priority Delivery - 3 Days
+4,NO,Fedex,28.95,Priority Delivery - 3 Days
+4,CH,Fedex,28.95,Priority Delivery - 3 Days
+4,TR,Fedex,28.95,Priority Delivery - 3 Days
+4,UA,Fedex,21.95,Priority Delivery - 3 Days
+2,US,Fedex,11.95,Priority Delivery - 2 Days
+2,US,Fedex,11.95,Priority Delivery - 2 Days
+5,RU,Fedex,21.95,Priority Delivery - 3 Days
+6,AU,Fedex,12.95,Priority Delivery - 3 Days
+7,JP,Fedex,2200,Priority Delivery - 3 Days
+8,HK,Fedex,12.95,Priority Delivery - 3 Days
+9,CN,Fedex,14.95,Priority Delivery - 3 Days
+10,KR,Fedex,12.95,Priority Delivery - 3 Days
+11,AE,Fedex,22.95,Priority Delivery - 3 Days
+11,AR,Fedex,29.95,Priority Delivery - 3 Days
+11,AZ,Fedex,39.95,International Priority - 5 day
+11,BA,Fedex,24.95,International Priority - 3 Day
+11,BB,Fedex,36.95,International Priority - 5 Day
+11,BH,Fedex,23.95,Priority Delivery - 3 Days
+11,BR,Fedex,29.95,Priority Delivery - 3 Days
+11,VG,Fedex,36.95,International Priority - 5 Day
+11,BN,Fedex,24.95,International Priority - 3 Day
+11,KY,Fedex,36.95,International Priority - 5 Day
+11,CL,Fedex,29.95,Priority Delivery - 3 Days
+11,CO,Fedex,36.95,International Priority - 5 Day
+11,CR,Fedex,36.95,International Priority - 5 Day
+11,DO,Fedex,36.95,International Priority - 5 Day
+11,SV,Fedex,36.95,International Priority - 5 Day
+11,GF,Fedex,36.95,International Priority - 5 Day
+11,GI,Fedex,36.95,International Priority - 4 Day
+11,GL,Fedex,24.95,International Priority - 5 Day
+11,IS,Fedex,39.95,International Priority - 5 Day
+11,JM,Fedex,36.95,International Priority - 5 Day
+11,KW,Fedex,24.95,International Priority - 4 Day
+11,LI,Fedex,36.95,International Priority - 4 Day
+11,LU,Fedex,24.95,International Priority - 4 Day
+11,MO,Fedex,14.95,Priority Delivery - 3 Days
+11,MY,Fedex,15.95,Priority Delivery - 3 Days
+11,MX,Fedex,15.95,Priority Delivery - 3 Days
+11,MT,Fedex,36.95,International Delivery - 4 Day
+11,MD,Fedex,24.95,International Delivery - 4 Day
+11,MC,Fedex,17.95,International Delivery - 3 Day
+11,ME,Fedex,24.95,International Delivery - 4 Day
+11,NZ,Fedex,15.95,Priority Delivery - 3 Days
+11,PH,Fedex,14.95,Priority Delivery - 3 Days
+11,QA,Fedex,24.95,International Delivery - 4 Day
+11,SG,Fedex,13.95,Priority Delivery - 3 Days
+11,SA,Fedex,24.95,International Delivery - 4 Day
+11,RS,Fedex,36.95,International Delivery - 4 Day
+11,ZA,Fedex,32.95,International Delivery - 4 Day
+11,TW,Fedex,13.95,Priority Delivery - 3 Days
+11,TH,Fedex,15.95,Priority Delivery - 3 Days
+11,VA,Fedex,24.95,International Delivery - 3 Day
